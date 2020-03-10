@@ -1,0 +1,1 @@
+# squidalerts-api-docs
